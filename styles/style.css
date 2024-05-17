@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header>div{
+    padding: 5px;
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+}
